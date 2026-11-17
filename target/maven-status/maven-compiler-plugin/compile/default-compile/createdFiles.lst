@@ -1,0 +1,4 @@
+com\bikestore\OrderProducer.class
+com\bikestore\Common.class
+com\bikestore\PaymentWorker.class
+com\bikestore\EmailWorker.class
